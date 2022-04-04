@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @lizhijunya
+- 👀 I’m interested in HTML/PHP
+- 🌱 I’m currently learning HTML
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me :Email at lizhijun@88.com
